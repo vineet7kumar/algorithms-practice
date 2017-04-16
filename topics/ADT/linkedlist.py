@@ -38,4 +38,3 @@ class SinglyLinkedList(object):
             temp = temp.next
         temp.next = node.next
         del node
-        
